@@ -367,6 +367,7 @@ OAG（Open Academic Graph包含来自MAG的166,192,182篇论文和来自AMiner�
 - [上市公司高管图谱](https://github.com/Shuang0420/knowledge_graph_demo)
 
 ### 医疗领域知识图谱
+- https://github.com/liuhuanyong/QASystemOnMedicalKG
 
 ### 农业领域知识图谱
 
